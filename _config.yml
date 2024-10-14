@@ -21,9 +21,9 @@
 title: Blog in the Machine
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog in the Machine is a blog authored by me, pandaniel. This is 
+  intended as a place where I talk about a variety of tabletop roleplaying 
+  games, but mostly the Sine Nomine Publishing ones.
 baseurl: "/bloginthemachine" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
