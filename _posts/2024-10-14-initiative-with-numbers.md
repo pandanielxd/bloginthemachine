@@ -7,7 +7,7 @@ permalink: /initiative/
 toc: true
 toc_sticky: true
 categories: WWN
-tags: WWN
+tags: Theory
 ---
 In ***Worlds without Number***, ***Initiative*** decides who acts when in combat. The higher your roll, the earlier you act within a round Let's talk about the intricacies of ***Initiative***, and why aiming high is worthwhile.
 
