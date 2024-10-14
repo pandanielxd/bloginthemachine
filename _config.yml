@@ -67,7 +67,6 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 exclude:
   - .sass-cache/
@@ -80,7 +79,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - .obsidian
-  - .space
-  - Tags
-  - .makemd
+  - README
+  - .obsidian/
+  - .space/
+  - Tags/
+  - .makemd/
