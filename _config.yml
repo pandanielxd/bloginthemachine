@@ -84,3 +84,4 @@ exclude:
   - .space/
   - Tags/
   - .makemd/
+  - todo.md
