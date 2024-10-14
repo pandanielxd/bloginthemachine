@@ -67,7 +67,9 @@ author:
 
 # Reading Files
 include:
-  - _pages
+  - _sass/
+  - _pages/
+  - _includes/
 exclude:
   - .sass-cache/
   - .jekyll-cache/
