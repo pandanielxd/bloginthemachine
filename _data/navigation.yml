@@ -1,0 +1,11 @@
+main:
+    - title: "Posts"
+      url: "/"
+    - title: "Initiative with Numbers"
+      url: /initiative/
+
+docs:
+    - title: "Posts"
+      children:
+        - title: "Initiative with Numbers"
+          url: /initiative/
