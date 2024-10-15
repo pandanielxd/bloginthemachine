@@ -4,8 +4,6 @@ excerpt: Combat can be complicated! In this article, we talk about Initiative, f
 date: 2024-10-14
 last_modified_at: 2024-10-14
 permalink: /initiative/
-toc: true
-toc_sticky: true
 categories: WWN
 tags: Theory
 ---
