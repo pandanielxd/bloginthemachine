@@ -7,8 +7,7 @@ permalink: /initiative/
 categories: WWN
 tags: Theory
 ---
-In ***Worlds without Number***, ***Initiative*** decides who acts when in combat. The higher your roll, the earlier you act within a round Let's talk about the intricacies of ***Initiative***, and why aiming high is worthwhile.
-
+In ***Worlds without Number***, ***Initiative*** decides who acts when in combat. The higher your roll, the earlier you act within a round. Today, we'll take a look together at the intricacies of ***Initiative***, and why aiming high is worthwhile.
 ## Rounds, Turns, and Initiative
 We'll start by explaining the basic concepts of combat. Combat in ***Worlds without Number*** is broken into rounds. Each round, participants each get a turn. Most actions are limited in that a participant can only use them as part of their turn. The order of turns is decided based on the ***Initiative*** people roll, which is used in all rounds of the combat.
 
@@ -38,4 +37,4 @@ Another example is *Cast a Spell*, which is the action spellcasters use to cast 
 ### Denying Potential Actions
 A property true for many TTRPGs is that characters are unable to act when dead or downed. If you beat an enemy to the punch and they die, you have basically negated all other turns they could have had in the combat scenario. Picture a scenario with one PC and one NPC. The PC is able to kill the NPC in one turn, while the NPC can deal five damage to the PC. If the NPC acts first, the PC leaves combat with five hit points than they started. If the PC acts first, the PC still has all their hit points! While combat may not be this black and white in reality, the same principle holds even when we add more allies or enemies. This is also why focusing on dealing with a single enemy at a time can be incredibly effective.
 ## Conclusion
-While ***Initiative*** is simple to roll, there are various aspects to it that can complicate combat. In this article, we talk about many of these aspects, while finishing off explaining why being first is better than being last.
+While ***Initiative*** is simple to roll, there are various aspects to it that can complicate combat. In this article, we talk about many of these aspects, finishing off by explaining why being first is better than being last.
