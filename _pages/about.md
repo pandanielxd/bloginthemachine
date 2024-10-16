@@ -6,6 +6,8 @@ comments: true
 share: true
 related: true
 permalink: /about/
+header:
+  image: /assets/images/cogs.webp
 ---
 Blog in the Machine is a blog authored by me, pandaniel. This is intended as a place where I talk about a variety of tabletop roleplaying games, but mostly the Sine Nomine Publishing ones.
 
