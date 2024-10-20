@@ -2,13 +2,14 @@
 title: Initiative with Numbers
 excerpt: Combat can be complicated! In this article, we talk about Initiative, finishing off explaining why being first is better than being last.
 date: 2024-10-14
+last_modified_at: 2024-10-20
 permalink: /initiative/
 categories: WWN
 tags: Theory
 header:
   image: /assets/images/hourglass.webp
 ---
-In ***Worlds without Number***, ***Initiative*** decides who acts when in combat. The higher your roll, the earlier you act within a round. Today, we'll take a look together at the intricacies of ***Initiative***, and why aiming high is worthwhile.
+I like how ***Initiative*** works in ***Worlds without Number***, but it can get a bit complex. ***Initiative*** decides who acts when in combat. The higher your roll, the earlier you act within a round. Today, we'll take a look together at the intricacies of ***Initiative***, and why aiming high is worthwhile.
 ## Rounds, Turns, and Initiative
 We'll start by explaining the basic concepts of combat. Combat in ***Worlds without Number*** is broken into rounds. Each round, participants each get a turn. Most actions are limited in that a participant can only use them as part of their turn. The order of turns is decided based on the ***Initiative*** people roll, which is used in all rounds of the combat.
 
