@@ -11,3 +11,5 @@ docs:
       children:
         - title: "Initiative with Numbers"
           url: /initiative/
+        - title: "The Blade Grows Heavy"
+          url: /the-blade-grows-heavy/
