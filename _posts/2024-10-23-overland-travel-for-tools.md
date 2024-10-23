@@ -13,7 +13,7 @@ With the release of the [***Worlds without Number*** System Reference Document](
 
 Today, we'll quickly go over the Overland Travel rules, and finish up with a tool to calculate the speed of a party, and with that the time needed to traverse a distance. It isn't rocket science, but might be useful for some people nonetheless.
 ## The Ins and Outs
-As I have mentioned, a party can generally travel ten hours a day. The other time is used for rest, making camp, and other activities. The System Reference Document (SRD) mentions the speed for a variety of different terrain types and modifiers, which will also be mentioned a bit later here.
+As I have mentioned, a party can generally travel ten hours a day. The other time is used for rest, making camp, and other activities. The System Reference Document mentions the speed for a variety of different terrain types and modifiers, which will also be mentioned a bit later here.
 
 The speeds mentioned assume a party is going from A to B without spending any time scouting areas, or investigating surroundings. It also doesn't matter if you walk, go by cart, or similar.
 
