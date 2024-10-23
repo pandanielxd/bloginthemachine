@@ -62,7 +62,7 @@ Finally, if the PCs are travelling on their lonesome without some well-stocked t
       </label>
     </fieldset>
 	<p>* Good roads cannot increase the party’s marching speed above three miles per hour</p>
-    <button type="button" onclick="calculateSpeed()">Calculate Speed</button>
+    <a class="btn btn--primary" type="button" onclick="calculateSpeed()">Calculate Speed</a>
   </form>
   Calculated Speed: <strong><span id="speed">3.00</span> mph</strong>
 </div>
@@ -81,7 +81,7 @@ Finally, if the PCs are travelling on their lonesome without some well-stocked t
         <input type="number" id="number-of-hexes" value="1" placeholder="1" required>
       </label><br>
     </fieldset>
-    <button type="button" onclick="calculateHexTime()">Calculate Time</button>
+    <a class="btn btn--primary" type="button" onclick="calculateHexTime()">Calculate Time</a>
   </form>
   Total Travel Time: <strong><span id="travel-time">2.00</span> hours</strong>
 </div>

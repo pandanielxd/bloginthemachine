@@ -42,16 +42,39 @@ label {
   margin-bottom: 10px;
 }
 
-button {
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  cursor: pointer;
+.btn--primary {
+  background-color: #6f777d;
+  color: #fff; 
 }
 
-button:hover {
-  background-color: #0056b3;
+.btn--primary:visited {
+  background-color: #6f777d;
+  color: #fff; 
+}
+
+.btn--primary:hover {
+  background-color: #595f64;
+  color: #fff; 
+}
+
+.btn--inverse {
+  background-color: #fff;
+  color: #3d4144;
+  border: 1px solid #f2f3f3;
+}
+
+.btn--inverse:visited {
+  background-color: #fff;
+  color: #3d4144; 
+}
+  
+.btn--inverse:hover {
+  background-color: #cccccc;
+  color: #3d4144; 
+}
+
+a:hover {
+  outline: 0;
 }
 
 *:focus {
