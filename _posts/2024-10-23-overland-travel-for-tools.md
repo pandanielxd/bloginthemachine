@@ -1,6 +1,6 @@
 ---
 title: Overland Travel for Tools
-excerpt: Combat can be complicated! In this article, we talk about Initiative, finishing off explaining why being first is better than being last.
+excerpt: Overland travel isn't too complicated. Neither is its math. Yet this article includes both! 
 date: 2024-10-23
 last_modified_at: 2024-10-23
 permalink: /overland-travel-for-tools/
