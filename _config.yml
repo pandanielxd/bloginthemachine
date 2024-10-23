@@ -38,21 +38,12 @@ markdown: GFM
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 og_image: /assets/images/web-app-manifest-192x192.png
 repository: "pandanielxd/bloginthemachine"
-{% if site.minimal_mistakes_skin_dark %}
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-dark" 
+    theme: "github-light" # "github-dark"
     issue_term: "pathname"
-    label: "comment" 
-{% else %}
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" 
-    issue_term: "pathname"
-    label: "comment"
-{% endif %}
+    label: "comment" # Optional - must be existing label.
 plugins:
   - jekyll-feed
   - jekyll-include-cache
