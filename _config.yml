@@ -41,7 +41,7 @@ repository: "pandanielxd/bloginthemachine"
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-light" # "github-dark"
+    theme: "preferred-color-scheme"
     issue_term: "pathname"
     label: "comment" # Optional - must be existing label.
 plugins:

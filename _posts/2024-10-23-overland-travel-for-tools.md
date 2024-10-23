@@ -8,7 +8,6 @@ categories: WWN
 tags: Theory Tool
 header:
   image: /assets/images/road.webp
-comments.theme: "github-dark"
 ---
 With the release of the [***Worlds without Number*** System Reference Document](https://www.drivethrurpg.com/en/product/473939/worlds-without-number-system-reference-document), the world was forever changed. Well, maybe I shouldn't go that far, but overland travel was modified to be capped at three miles per hour, which means roads no longer allow people to travel at running speeds for ten hours a day.
 
