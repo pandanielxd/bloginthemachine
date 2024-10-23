@@ -33,6 +33,7 @@ github_username:  pandanielxd
 # Build settings
 markdown: GFM
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+og_image: /assets/images/web-app-manifest-192x192.png
 repository: "pandanielxd/bloginthemachine"
 comments:
   provider: "utterances"
@@ -50,7 +51,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
 
 defaults:
   # _posts

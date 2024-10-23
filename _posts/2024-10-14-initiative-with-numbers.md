@@ -3,7 +3,7 @@ title: Initiative with Numbers
 excerpt: Combat can be complicated! In this article, we talk about Initiative, finishing off explaining why being first is better than being last.
 date: 2024-10-14
 last_modified_at: 2024-10-20
-permalink: /initiative/
+permalink: /initiative-with-numbers/
 categories: WWN
 tags: Theory
 header:

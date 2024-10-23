@@ -21,10 +21,60 @@
     });
 </script>
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [ ['$', '$'], ['\\(', '\\)'] ]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
 
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+<script>
+function calculateSpeed() {
+  const form = document.getElementById('terrain-form');
+
+  // Get selected terrain type (since one is required, it should always exist)
+  const terrain = parseFloat(form.elements['terrain'].value);
+
+  // Get selected modifiers
+  const modifiers = form.querySelectorAll('input[name="modifier"]:checked');
+  let modifierFactor = 1;
+  
+  modifiers.forEach(mod => {
+    modifierFactor *= parseFloat(mod.value);
+  });
+
+  // Calculate speed
+  let speed = terrain * modifierFactor;
+
+  // Ensure max speed with road modifier doesn't exceed 3 mph
+  speed = Math.min(speed, 3);
+  
+  // Display the calculated speed
+  document.getElementById('speed').textContent = speed.toFixed(2);
+}
 </script>
 
+<script>
+function calculateHexTime() {
+  const speed = parseFloat(document.getElementById('speed').textContent); // Get the calculated speed
+  const milesPerHex = parseFloat(document.getElementById('miles-per-hex').value);
+  const numberOfHexes = parseFloat(document.getElementById('number-of-hexes').value);
+
+  // Calculate total miles to travel
+  const totalMiles = milesPerHex * numberOfHexes;
+
+  // Calculate travel time in hours
+  const travelTime = totalMiles / speed;
+
+  // Display the calculated time
+  document.getElementById('travel-time').textContent = travelTime.toFixed(2);
+}
+</script>
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <link rel="icon" type="image/png" href="{{ '/assets/images/favicon-48x48.png' | relative_url }}" sizes="48x48" />
