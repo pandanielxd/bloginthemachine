@@ -36,6 +36,10 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
+form {
+  border-radius: 4px;
+}
+
 label {
   display: flex;
   justify-content: space-between;

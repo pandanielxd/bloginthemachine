@@ -21,7 +21,6 @@
 title: Blog in the Machine
 minimal_mistakes_skin: "default"
 minimal_mistakes_skin_dark: "dark"
-
 logo: "/assets/images/favicon-48x48.png"
 logo_dark: "/assets/images/favicon-48x48_dark.png"
 email: info.bloginthemachine@gmail.com
@@ -39,12 +38,21 @@ markdown: GFM
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 og_image: /assets/images/web-app-manifest-192x192.png
 repository: "pandanielxd/bloginthemachine"
+{% if site.minimal_mistakes_skin_dark %}
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-light" # "github-dark"
+    theme: "github-dark" 
     issue_term: "pathname"
-    label: "comment" # Optional - must be existing label.
+    label: "comment" 
+{% else %}
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" 
+    issue_term: "pathname"
+    label: "comment"
+{% endif %}
 plugins:
   - jekyll-feed
   - jekyll-include-cache
